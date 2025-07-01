@@ -1,0 +1,62 @@
+version: '1.0'
+
+services:
+   
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    expose:
+      - 27017
+    volumes:
+      - C:\Users\anupl\OneDrive\Desktop\Web Dev\PromptsBooks\mongo-data:/data/db
+    networks:
+      - anup
+    logging:
+      driver: "none"
+
+  backend:
+    build: C:\Users\anupl\OneDrive\Desktop\Web Dev\PromptsBooks\backend
+    image: backend:latest
+    container_name: backend
+    ports:
+      - "3000:3000"
+    expose:
+      - 3000
+    environment:
+      
+    depends_on:
+      - mongodb
+    networks:
+      - anup
+
+  promptsy-frontend:
+    build: C:\Users\anupl\OneDrive\Desktop\Web Dev\PromptsBooks\frontend
+    image: anuplohar001/frontend:latest
+    container_name: frontend
+    ports:
+      - "5000:5000"
+    expose:
+      - 5000
+    environment:
+      
+    depends_on:
+      - backend
+      - mongodb
+    networks:
+      - anup
+
+networks:
+  anup:
+    driver: bridge
+
+volumes:
+  mongo-data:
+    driver: local
+    driver_opts:
+      type: none
+      device: C:\Users\anupl\OneDrive\Desktop\Web Dev\PromptsBooks\mongo-data
+      o: bind
+    

@@ -1,0 +1,35 @@
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Ignore Terraform CLI configuration directory
+.terraform/
+
+# Ignore sensitive Terraform variable files (if any)
+*.tfvars
+
+# Ignore Terraform lock file (optional)
+.terraform.lock.hcl
+
+# Ignore AWS access key files
+eks_user_accessKeys.csv
+example-key.pem
+
+# Ignore Kubernetes specific secrets (if any)
+*.secret.yaml
+
+# Ignore Docker-related files (optional)
+docker-compose.override.yml
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# OS or editor-generated files
+.DS_Store
+Thumbs.db
+
+.env

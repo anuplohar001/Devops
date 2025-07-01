@@ -1,0 +1,24 @@
+master = ssh -i "example-key.pem" ubuntu@ec2-13-221-230-92.compute-1.amazonaws.com
+
+
+agent = ssh -i "example-key.pem" ubuntu@ec2-34-203-188-221.compute-1.amazonaws.com
+
+
+context (minikube, kubeadm, eks) => namespace (group of resources in single cluster) => pods (can be more than one container) => deployment (with multiple pods) => services()
+
+
+
+
+docker run -d -p 27017:27017 --name mongo4.4 mongo:4.4   // run and fetch mongodb image of docker
+docker run -d -p ...:... --name ...imgname 
+docker build -t   // build docker image from current directory Dockerfile
+docker ps // list running containers
+docker ps -a //list all containers
+
+
+
+pod and deployment can be combined into single file
+
+frontend-nextjs = pod.yml, deployment.yml, service.yml
+backend-nodejs = pod.yml, deployment.yml, service.yml
+mongodb = persistentVolume.yml, volumeC.yml, pod.yml, deployment.yml, service.yml
