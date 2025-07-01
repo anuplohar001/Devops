@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "66fe8f9ed8cc64bd8941693a"
+  },
+  "userid": {
+    "$oid": "66742ae300ee841a1c408ff3"
+  },
+  "story": "Hii everyone !!! This is my first story",
+  "createdAt": {
+    "$date": "2024-10-03T12:35:42.996Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T12:35:42.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66fe8fdcd8cc64bd8941693d"
+  },
+  "userid": {
+    "$oid": "66742ae300ee841a1c408ff3"
+  },
+  "story": "Hii guys . Please give me feedback on my posts that I have created on this platform",
+  "createdAt": {
+    "$date": "2024-10-03T12:36:44.985Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-03T12:36:44.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa59c690fa7a930099418"
+  },
+  "userid": {
+    "$oid": "66fe820a361df8729883be35"
+  },
+  "story": "Hii Everyone",
+  "createdAt": {
+    "$date": "2024-10-04T08:21:48.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:21:48.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa67dc02461b195631912"
+  },
+  "userid": {
+    "$oid": "6698906b069c8e59bf5682c1"
+  },
+  "story": "Hello Everyone !!!",
+  "createdAt": {
+    "$date": "2024-10-04T08:25:33.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:25:33.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa6cb690fa7a93009943e"
+  },
+  "userid": {
+    "$oid": "667c1d56ba55cb683d3d92b5"
+  },
+  "story": "Hii !!! OM This side",
+  "createdAt": {
+    "$date": "2024-10-04T08:26:51.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:26:51.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa73f0a9b0cbe36fff214"
+  },
+  "userid": {
+    "$oid": "668248127b6f5236c1dfb7e5"
+  },
+  "story": "Hii !! \nThis is story which will automatically expire after 24 hrs of creation by using TTL indexes in MongoDB",
+  "createdAt": {
+    "$date": "2024-10-04T08:28:47.886Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:28:47.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa77a0a9b0cbe36fff223"
+  },
+  "userid": {
+    "$oid": "668248127b6f5236c1dfb7e5"
+  },
+  "story": "TTL stands for TIME TO LIVE",
+  "createdAt": {
+    "$date": "2024-10-04T08:29:46.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:29:46.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ffa7a70a9b0cbe36fff232"
+  },
+  "userid": {
+    "$oid": "668248127b6f5236c1dfb7e5"
+  },
+  "story": "Due to development purpose I have not yet applied TTL indexes on stories document",
+  "createdAt": {
+    "$date": "2024-10-04T08:30:31.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T08:30:31.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c53305"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b72"
+  },
+  "story": "Hello world! I'm JaneSmith, excited to share my thoughts here.",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c53306"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b73"
+  },
+  "story": "Hey everyone, it's CharlieBrown! Let’s make this platform amazing.",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c53307"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b74"
+  },
+  "story": "Hi, EmilyDavis here! Excited to connect with you all.",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c53308"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b75"
+  },
+  "story": "MichaelScott here, bringing a little fun and inspiration to your day!",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c53309"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b76"
+  },
+  "story": "SarahConnor here! Let’s share stories and make great connections.",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c5330a"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b77"
+  },
+  "story": "JamesBond signing in. Let’s have some intriguing conversations!",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c5330b"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b78"
+  },
+  "story": "Hi, SophiaWilliams here! Looking forward to connecting with you.",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c5330c"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b79"
+  },
+  "story": "ChrisEvans here! Let’s make some great memories together.",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770103f2a3d8196a1c5330d"
+  },
+  "userid": {
+    "$oid": "676f90b64abc6a46f8015b7a"
+  },
+  "story": "Hello, OliviaTaylor here! Excited to start this journey with you all.",
+  "createdAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T12:00:00.000Z"
+  },
+  "__v": 0
+}]

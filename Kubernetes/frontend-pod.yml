@@ -18,7 +18,22 @@ spec:
       - name: frontend
         image: anuplohar001/frontend:latest
         env:
-          
+          - name: MONGODB_URI
+            value: "mongodb://mongodb:27017/prompts"
+          - name: NEXT_PUBLIC_BACKEND_URI
+            value: "http://backend-svc:3000"
+          - name: NEXT_PUBLIC_LOCAL_URI
+            value: "http://localhost:5000"
+          - name: GOOGLE_ID
+            value: ".....apps.googleusercontent.com"
+          - name: GOOGLE_SECRET
+            value: ".....googlesecret"
+          - name: NEXTAUTH_URL
+            value: "http://localhost:5000"
+          - name: NEXTAUTH_URL_INTERNAL
+            value: "http://localhost:5000"
+          - name: NEXTAUTH_SECRET
+            value: "your-nextauth-secret"
         ports:
           - containerPort: 5000
         imagePullPolicy: IfNotPresent

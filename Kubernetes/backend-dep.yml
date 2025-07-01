@@ -20,5 +20,10 @@ spec:
         ports:
           - containerPort: 3000
         env:
-          
+          - name: MONGODB_URI
+            value: "mongodb://mongodb:27017/prompts"
+          - name: PORT
+            value: "3000"
+          - name: GITHUB_TOKEN
+            value: "your-github-token"
         imagePullPolicy: IfNotPresent

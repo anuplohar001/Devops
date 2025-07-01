@@ -1,0 +1,634 @@
+[{
+  "_id": {
+    "$oid": "66742aee00ee841a1c408ffb"
+  },
+  "prompt": "Write a JavaScript function. It accepts a full name as input and returns avatar letters.",
+  "tag": "#coding #java",
+  "padmin": {
+    "$oid": "66742ae300ee841a1c408ff3"
+  },
+  "__v": 1,
+  "comment": [],
+  "like": []
+},
+{
+  "_id": {
+    "$oid": "667c1cb8ba55cb683d3d929c"
+  },
+  "prompt": "Contrast the design and architecture with [comma-separated list of technologies] as the technology stack.",
+  "tag": "#systemdesign #lld #hld",
+  "padmin": {
+    "$oid": "66742ae300ee841a1c408ff3"
+  },
+  "__v": 0,
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c1d99ba55cb683d3d92d2"
+  },
+  "prompt": "I'm a web developer learning [language/ technology]. Suggest top 5 [social media] [accounts/ channels/ profiles] to follow.",
+  "tag": "#study #webdev #resources",
+  "padmin": {
+    "$oid": "667c1d56ba55cb683d3d92b5"
+  },
+  "__v": 0,
+  "like": [
+    {
+      "$oid": "66742ae300ee841a1c408ff3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c1dcaba55cb683d3d92e9"
+  },
+  "prompt": "Ask me a random easy/medium/hard Leetcode question and evaluate my solution based on correctness, and the time and space complexity. edited",
+  "tag": "#leetcode #DSA",
+  "padmin": {
+    "$oid": "667c1d56ba55cb683d3d92b5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c1e42ba55cb683d3d935e"
+  },
+  "prompt": "I am interviewing for a [job title] role. Please list down the 10 most asked interview questions for a [job title] position.",
+  "tag": "#interview #questions",
+  "padmin": {
+    "$oid": "667c1d56ba55cb683d3d92b5"
+  },
+  "__v": 0,
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6684eec794d6435a0e249aec"
+  },
+  "prompt": "Give me a stack implementation code using java",
+  "tag": "#java #DSA",
+  "padmin": {
+    "$oid": "66742ae300ee841a1c408ff3"
+  },
+  "__v": 0,
+  "comment": [
+    {
+      "content": "this is comment",
+      "userid": {
+        "$oid": "668248127b6f5236c1dfb7e5"
+      },
+      "_id": {
+        "$oid": "6708b9bf44e9f740d3cdb3b8"
+      }
+    }
+  ],
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6687f652172350e69b7e9efb"
+  },
+  "prompt": "Write 3 resume bullet points for a [TITLE] position that describe impact and use metrics. Include at least 2 of these keywords: [A, B, C, D, E]. [Copy/paste the top 5 hard/technical skills and/or soft skills highlighted in Teal.]",
+  "tag": "#resume #interview ",
+  "padmin": {
+    "$oid": "668248127b6f5236c1dfb7e5"
+  },
+  "__v": 0,
+  "comment": [
+    {
+      "content": "Nice",
+      "userid": {
+        "$oid": "66742ae300ee841a1c408ff3"
+      },
+      "_id": {
+        "$oid": "66ffa4d58aaf3da4cd1030ec"
+      }
+    },
+    {
+      "content": "Thanks",
+      "userid": {
+        "$oid": "668248127b6f5236c1dfb7e5"
+      },
+      "_id": {
+        "$oid": "66ffa4e4733646f7b9a0553b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6698916f743a09097aa29940"
+  },
+  "prompt": "I'm a web developer learning [language/ technology]. Suggest top 5 [social media] [accounts/ channels/ profiles] to follow.",
+  "tag": "#study #coding",
+  "padmin": {
+    "$oid": "6698906b069c8e59bf5682c1"
+  },
+  "__v": 0,
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b81"
+  },
+  "prompt": "Explain the benefits of using React over plain JavaScript.",
+  "tag": "#React #JavaScript",
+  "padmin": {
+    "$oid": "66742ae300ee841a1c408ff3"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b82"
+  },
+  "prompt": "Create a Node.js API to handle user authentication.",
+  "tag": "#NodeJS #API",
+  "padmin": {
+    "$oid": "66742ae300ee841a1c408ff3"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b83"
+  },
+  "prompt": "List the top 5 system design books to read for beginners.",
+  "tag": "#SystemDesign #Books",
+  "padmin": {
+    "$oid": "667c1d56ba55cb683d3d92b5"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b84"
+  },
+  "prompt": "Provide a step-by-step guide to deploy a MERN stack application.",
+  "tag": "#MERN #Deployment",
+  "padmin": {
+    "$oid": "667c1d56ba55cb683d3d92b5"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b85"
+  },
+  "prompt": "Discuss the pros and cons of TypeScript in a project.",
+  "tag": "#TypeScript #Programming",
+  "padmin": {
+    "$oid": "668248127b6f5236c1dfb7e5"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b86"
+  },
+  "prompt": "Generate 5 DSA questions for a beginner level programmer.",
+  "tag": "#DSA #Coding",
+  "padmin": {
+    "$oid": "668248127b6f5236c1dfb7e5"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b87"
+  },
+  "prompt": "Explain the basics of Docker and containerization.",
+  "tag": "#Docker #DevOps",
+  "padmin": {
+    "$oid": "6698906b069c8e59bf5682c1"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b88"
+  },
+  "prompt": "Write a blog post outline on the importance of Agile methodology.",
+  "tag": "#Agile #Blog",
+  "padmin": {
+    "$oid": "6698906b069c8e59bf5682c1"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b89"
+  },
+  "prompt": "What are the key principles of UI/UX design?",
+  "tag": "#UIUX #Design",
+  "padmin": {
+    "$oid": "66fe820a361df8729883be35"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b8a"
+  },
+  "prompt": "Suggest 5 tools for effective remote team collaboration.",
+  "tag": "#RemoteWork #Tools",
+  "padmin": {
+    "$oid": "66fe820a361df8729883be35"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b8b"
+  },
+  "prompt": "Outline the process to integrate payment gateways like Stripe or PayPal in a web app.",
+  "tag": "#WebDev #Payments",
+  "padmin": {
+    "$oid": "675482ea3a01a8c07ff7780c"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b8c"
+  },
+  "prompt": "Explain the concept of RESTful APIs with examples.",
+  "tag": "#RESTful #APIs",
+  "padmin": {
+    "$oid": "675482ea3a01a8c07ff7780c"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b8d"
+  },
+  "prompt": "Describe the advantages of using cloud storage for businesses.",
+  "tag": "#Cloud #Storage",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b71"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b8e"
+  },
+  "prompt": "What are the most important cybersecurity practices for individuals?",
+  "tag": "#Cybersecurity #Tips",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b71"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b8f"
+  },
+  "prompt": "What are some common mistakes in writing SQL queries?",
+  "tag": "#SQL #Database",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b72"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b90"
+  },
+  "prompt": "Discuss the differences between SQL and NoSQL databases.",
+  "tag": "#Database #Tech",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b72"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b91"
+  },
+  "prompt": "List 5 best practices for responsive web design.",
+  "tag": "#WebDesign #Responsive",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b73"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b92"
+  },
+  "prompt": "What are the pros and cons of using CSS frameworks like TailwindCSS?",
+  "tag": "#CSS #Frameworks",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b73"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": [
+    {
+      "content": "Hii",
+      "userid": {
+        "$oid": "668248127b6f5236c1dfb7e5"
+      },
+      "_id": {
+        "$oid": "676fb1230ea390a36f63e0e7"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b93"
+  },
+  "prompt": "Explain the importance of version control in software development.",
+  "tag": "#VersionControl #Git",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b74"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b94"
+  },
+  "prompt": "Compare and contrast Agile vs Waterfall methodologies.",
+  "tag": "#Agile #Waterfall",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b74"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b95"
+  },
+  "prompt": "What are the benefits of Continuous Integration/Continuous Deployment (CI/CD)?",
+  "tag": "#CI/CD #DevOps",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b75"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b96"
+  },
+  "prompt": "How can serverless architectures benefit startups?",
+  "tag": "#Serverless #Architecture",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b75"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b97"
+  },
+  "prompt": "What are the core concepts of machine learning?",
+  "tag": "#MachineLearning #AI",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b76"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b98"
+  },
+  "prompt": "Explain the difference between supervised and unsupervised learning.",
+  "tag": "#AI #Learning",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b76"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b99"
+  },
+  "prompt": "What are the best resources for learning blockchain technology?",
+  "tag": "#Blockchain #Learning",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b77"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b9a"
+  },
+  "prompt": "Describe the concept of smart contracts in blockchain.",
+  "tag": "#Blockchain #SmartContracts",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b77"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b9b"
+  },
+  "prompt": "What are some advanced CSS techniques for modern web apps?",
+  "tag": "#CSS #WebApps",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b78"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b9c"
+  },
+  "prompt": "Explain the role of ARIA in improving web accessibility.",
+  "tag": "#Accessibility #Web",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b78"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": [
+    {
+      "content": "hiii",
+      "userid": {
+        "$oid": "668248127b6f5236c1dfb7e5"
+      },
+      "_id": {
+        "$oid": "67790377dbfbafadc200cdee"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b9d"
+  },
+  "prompt": "How do APIs facilitate communication between different software applications?",
+  "tag": "#API #Software",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b79"
+  },
+  "like": [],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b9e"
+  },
+  "prompt": "Describe the process of building REST APIs with Flask.",
+  "tag": "#Flask #RESTAPI",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b79"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015b9f"
+  },
+  "prompt": "What are the top 3 trends in frontend development for 2024?",
+  "tag": "#Frontend #WebDev",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b7a"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": []
+},
+{
+  "_id": {
+    "$oid": "676f92e14abc6a46f8015ba0"
+  },
+  "prompt": "Explain the significance of Lighthouse scores for SEO and performance.",
+  "tag": "#SEO #Performance",
+  "padmin": {
+    "$oid": "676f90b64abc6a46f8015b7a"
+  },
+  "like": [
+    {
+      "$oid": "668248127b6f5236c1dfb7e5"
+    }
+  ],
+  "comment": [
+    {
+      "content": "hii",
+      "userid": {
+        "$oid": "668248127b6f5236c1dfb7e5"
+      },
+      "_id": {
+        "$oid": "677983f9c8d432b483260d46"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "685f96d233826ee69cfa2de8"
+  },
+  "prompt": "hello this is new edited post",
+  "tag": "#new",
+  "padmin": {
+    "$oid": "668248127b6f5236c1dfb7e5"
+  },
+  "like": [],
+  "comment": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685fc8bffe1f43a4c4556426"
+  },
+  "prompt": "wow",
+  "tag": "trending",
+  "padmin": {
+    "$oid": "67da44e7998c61feed2263f1"
+  },
+  "like": [],
+  "comment": [],
+  "__v": 0
+}]

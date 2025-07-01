@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "66742ae300ee841a1c408ff3"
+  },
+  "email": "mohinilohar1980@gmail.com",
+  "username": "AnkitaLohar",
+  "__v": 0,
+  "password": "ankita",
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocKRhXOAqOm8AG4BEt5Z9DLf99zpfd0jV1DoZUzUsrwA0G9Nk4I=s96-c"
+},
+{
+  "_id": {
+    "$oid": "667c1d56ba55cb683d3d92b5"
+  },
+  "email": "bhosaleom054@gmail.com",
+  "username": "BhosaleOm",
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocI7rygkGHpxmFT6DLV8kQKfNKO71UjO2OBtD5A8g5qFLPcRBrE=s96-c",
+  "__v": 0,
+  "password": "om"
+},
+{
+  "_id": {
+    "$oid": "668248127b6f5236c1dfb7e5"
+  },
+  "email": "anuplohar001@gmail.com",
+  "username": "ÃÑÜPLÖHÃR",
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocLjz--6fwMBcqlhOKXvjC0HpNeJYi0DCWcIHTCNMYfrilzzx-vILA=s96-c",
+  "__v": 0,
+  "password": "pass@123"
+},
+{
+  "_id": {
+    "$oid": "6698906b069c8e59bf5682c1"
+  },
+  "email": "jagtapvaibhav507@gmail.com",
+  "username": "Vaibhav Jagtap",
+  "phone": "7276022353",
+  "password": "Vaibhav9%",
+  "__v": 0,
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocKlOoFC_whtBCkG0ATQDvte5W53WFHDez5a29aCd_93dU7Xik0=s96-c"
+},
+{
+  "_id": {
+    "$oid": "66fe820a361df8729883be35"
+  },
+  "email": "janraoashwini4@gmail.com",
+  "username": "AshwiniJanrao",
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocJ0OsccDMYiM12NBJ4OuNd_ReavgfRY0zXC783gevTUmYCC6BLU=s96-c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675482ea3a01a8c07ff7780c"
+  },
+  "email": "jagtapvaibhav470@gmail.com",
+  "username": "Vaibhavjagtap",
+  "image": "https://lh3.googleusercontent.com/a/ACg8ocJIaCiCzXIdrgEhOxq4Cs2pyxpMw2s6z7CfSVBlZMoybQydHg=s96-c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b71"
+  },
+  "username": "Santosh Jagtap",
+  "email": "santoshj@example.com",
+  "image": "https://randomuser.me/api/portraits/men/1.jpg",
+  "password": "password123"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b72"
+  },
+  "username": "Amruta Kale",
+  "email": "amitkk@example.com",
+  "image": "https://randomuser.me/api/portraits/women/2.jpg",
+  "password": "securepass"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b73"
+  },
+  "username": "CharlieBrown",
+  "email": "charliebrown@example.com",
+  "image": "https://randomuser.me/api/portraits/men/3.jpg",
+  "password": "brownie2024"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b74"
+  },
+  "username": "EmilyDavis",
+  "email": "emilydavis@example.com",
+  "image": "https://randomuser.me/api/portraits/women/4.jpg",
+  "password": "emilyrocks"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b75"
+  },
+  "username": "MichaelScott",
+  "email": "michaelscott@example.com",
+  "image": "https://randomuser.me/api/portraits/men/5.jpg",
+  "password": "worldsbestboss"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b76"
+  },
+  "username": "SarahConnor",
+  "email": "sarahconnor@example.com",
+  "image": "https://randomuser.me/api/portraits/women/6.jpg",
+  "password": "terminator2"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b77"
+  },
+  "username": "JamesBond",
+  "email": "jamesbond@example.com",
+  "image": "https://randomuser.me/api/portraits/men/7.jpg",
+  "password": "007agent"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b78"
+  },
+  "username": "SophiaWilliams",
+  "email": "sophiawilliams@example.com",
+  "image": "https://randomuser.me/api/portraits/women/8.jpg",
+  "password": "sophia2024"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b79"
+  },
+  "username": "ChrisEvans",
+  "email": "chrisevans@example.com",
+  "image": "https://randomuser.me/api/portraits/men/9.jpg",
+  "password": "captainamerica"
+},
+{
+  "_id": {
+    "$oid": "676f90b64abc6a46f8015b7a"
+  },
+  "username": "OliviaTaylor",
+  "email": "oliviataylor@example.com",
+  "image": "https://randomuser.me/api/portraits/women/10.jpg",
+  "password": "oliviaSecure"
+},
+{
+  "_id": {
+    "$oid": "67d2db565e39ee9eadc6864c"
+  },
+  "email": "ashwinijanrao@gmail.com",
+  "username": "Ashwini ",
+  "phone": "123456789",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67da44e7998c61feed2263f1"
+  },
+  "email": "dummy123@gmail.com",
+  "username": "DummyUser",
+  "phone": "9876543210",
+  "password": "1234",
+  "__v": 0
+}]

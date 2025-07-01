@@ -22,3 +22,6 @@ pod and deployment can be combined into single file
 frontend-nextjs = pod.yml, deployment.yml, service.yml
 backend-nodejs = pod.yml, deployment.yml, service.yml
 mongodb = persistentVolume.yml, volumeC.yml, pod.yml, deployment.yml, service.yml
+
+
+kubectl exec -it mongodb-5498bc5bdf-2pgl7 -- bash
