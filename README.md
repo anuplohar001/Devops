@@ -23,6 +23,7 @@
 <br>
  Architected and deployed a fault-tolerant, **auto-scalable** full-stack web application on **AWS EKS**, using **Kubernetes** with **2 t3.small nodes** and auto-scaling up to **3 nodes**, achieving **~99.5% uptime** and **reducing downtime by over 60%** through automated scaling and self-healing capabilities. Configured Horizontal Pod Autoscaler, Cluster Autoscaler, and AWS Application Load Balancer to ensure seamless traffic handling for **1,000+ concurrent users, scalable up to 10,000+ sessions.**
 <br>
+
 ## 📦 Tech Stack
 
 - **Frontend**: Next.js + Tailwind CSS
