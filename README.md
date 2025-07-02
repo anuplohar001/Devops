@@ -150,7 +150,10 @@ eksctl create cluster --name promptsy --region us-east-1 --node-type t2.medium -
 #### Run cmd
 
 ```
-kubectl get service
+kubectl get all
 ```
 
+![awsdeploy](./assets/kubeall.png)
+
+#### Final Overview
 ![awsdeploy](./assets/awsdeploy.png)
